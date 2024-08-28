@@ -4,3 +4,5 @@ Leveraged SQL to extract valuable insights to fuel data-driven business strategi
 
 **Tasks**
 --------------------------------------------------------------------------------------------------------------------------
+
+1.) What is the total Sales?
